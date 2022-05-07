@@ -14,7 +14,7 @@ I am a Front-End Developer from Greece.
 
 - :telescope: Currently working for Ordereze
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avraam-nikolaou/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avraam-nikolaou/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
