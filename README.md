@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="220"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/avraam-nikolaou/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
 **avnikolaou/avnikolaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
