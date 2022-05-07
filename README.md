@@ -32,7 +32,7 @@ I am a Front-End Developer from Greece.
 
 ---
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=avnikolaou
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=avnikolaou&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikolaou&layout=compact&theme=vision-friendly-dark)](https://github.com/avnikolaou/github-readme-stats)
 
