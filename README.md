@@ -8,6 +8,8 @@
   </a>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 
 I am a Front-End Developer from Greece.
@@ -27,6 +29,8 @@ I am a Front-End Developer from Greece.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 <!--
 **avnikolaou/avnikolaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
