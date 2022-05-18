@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Front-End Developer from Greece.
+Front-End Developer (Full-Stack on the making) from Greece.
 
 - :telescope: Currently working for Ordereze
 
