@@ -14,7 +14,7 @@
 
 Front-End Developer (Full-Stack on the making) from Greece.
 
-- :telescope: Currently working for Zizoo
+- :telescope: Currently open to new opportunities
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avraam-nikolaou/)
 
