@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
-Front-End Developer (Full-Stack on the making) from Greece.
+Front-End Developer from Greece.
 
 - :telescope: Currently open to new opportunities
 
